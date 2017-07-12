@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+fieldset{
+    width: 400px;
+    border: 1px solid #ccc;
+    text-align: center;
+    margin: 20px auto;
+}
+
+input{
+    padding: 2px;
+    width: 200px;
+    margin-top: 20px;
+}
+
+.btn{
+    width: 208px;
+    border-radius: 3px;
+    height: 24px;
+    margin: 20px auto;
+    border: none;
+    line-height: 22px;
+    background: #0092db;
+    color: #fff;
+    cursor: pointer;
+}
+
+.register-success{
+    height: 30px;
+    line-height: 30px;
+    width: 600px;
+    margin: 20px auto;
+    background: #d6e9c6;
+    color: #3c763d;
+    text-align: center;
+    display: none;
+}
