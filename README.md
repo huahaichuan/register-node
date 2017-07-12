@@ -1,5 +1,5 @@
 # register-node
-a register demo by node
+a register demo by Node Express MongoDB
 
 ``` bash
 # clone project from github to your computer
@@ -11,6 +11,9 @@ a register demo by node
 # install dependencies
     npm install
     
+#start mongo server
+    mongod.exe --dbpath D:\learn\register-node\db (your db path)
+
 # run
     node app.js
     
